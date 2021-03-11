@@ -2,6 +2,10 @@
 
 This is a gathering of personal notes.
 
+## The basics
+
++ [Creating a New Package - The Cargo Book](https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html)
+
 ## GUI related
 
 + [A Survey of Rust GUI Libraries | boringcactus](https://www.boringcactus.com/2020/08/21/survey-of-rust-gui-libraries.html)
