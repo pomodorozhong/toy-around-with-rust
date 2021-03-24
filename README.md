@@ -1,10 +1,11 @@
-# toy around with rust
+# Toy around with rust
 
 This is a gathering of personal notes.
 
 ## The basics
 
 + [Creating a New Package - The Cargo Book](https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html)
++ [cargo example](./cargo-example/README.md)
 
 ## GUI related
 
