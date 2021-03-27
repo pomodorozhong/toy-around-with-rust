@@ -25,9 +25,9 @@ Hello, Alice!
 + To add dependencies for examples only, add such dependencies to `Cargo.toml` in the `[dev-dependencies]` section. These dependencies are not propagated to other packages which depend on this package.
 + When you run `cargo test`, all examples are built simultaneously with the execution of your regular test suite. This can be utilized to make sure all the examples still works.
 
-# The examples in here
+## The examples in here
 
-## hello.rs
+### hello.rs
 
 `hello.rs` demonstrate a basic cargo example.
 
@@ -37,7 +37,9 @@ to run this example:
 cargo run --example hello
 ```
 
-## hello2.rs
+---
+
+### hello2.rs
 
 `hello2.rs` demonstrate how to pass arguments to a cargo example.
 
@@ -47,7 +49,9 @@ to run this example:
 cargo run --example hello2 your-arg-goes-here
 ```
 
-## chrono.rs
+---
+
+### chrono.rs
 
 `chrono.rs` demonstrate how to use `[dev-dependencies]` in a example.
 
