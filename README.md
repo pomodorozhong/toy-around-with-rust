@@ -6,6 +6,7 @@ This is a gathering of personal notes.
 
 + [Creating a New Package - The Cargo Book](https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html)
 + [cargo example](./cargo-example/README.md)
++ [cargo test](./cargo-test/README.md)
 
 ## GUI related
 
