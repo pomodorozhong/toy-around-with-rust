@@ -5,6 +5,8 @@ This is a gathering of personal notes.
 ## The basics
 
 + [Creating a New Package - The Cargo Book](https://doc.rust-lang.org/cargo/guide/creating-a-new-project.html)
+  + `cargo new`: creates a new Cargo package in a new directory using the name you pass it
+  + `cargo init`: creates a new Cargo package in current directory
 + [cargo example](./cargo-example/README.md)
 + [cargo test](./cargo-test/README.md)
 
