@@ -11,6 +11,12 @@ This is a gathering of personal notes.
 + [cargo example](./cargo-example/README.md)
 + [cargo test](./cargo-test/README.md)
 
+## IDE
+
++ vscode
+  + [rust-analyzer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
+  + [Even Better TOML - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+
 ## GUI related
 
 + [A Survey of Rust GUI Libraries | boringcactus](https://www.boringcactus.com/2020/08/21/survey-of-rust-gui-libraries.html)
